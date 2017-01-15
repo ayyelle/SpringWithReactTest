@@ -1,0 +1,7 @@
+.idea/
+*.iml
+.gradle/
+build/
+/node_modules
+npm-debug.log
+/src/main/resources/static/app.bundle.js
