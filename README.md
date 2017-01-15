@@ -14,5 +14,17 @@ npm install
 ./gradlew bootRun
 ```
 
+## Troubleshoot - Might also have to run the follow
+
+```bash
+npm install babel-core babel-loader --save-dev
+npm install webpack -g
+./gradlew run build
+```
+before 
+```bash
+./gradlew bootRun
+```
+
 open http://localhost:8080 in your browser.
 
