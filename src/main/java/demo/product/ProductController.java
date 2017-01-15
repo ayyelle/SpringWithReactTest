@@ -1,7 +1,7 @@
-package de.synyx.tutorials.spring.reactjs.demo.product;
+package demo.product;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import de.synyx.tutorials.spring.reactjs.demo.react.React;
+import demo.react.React;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Controller;

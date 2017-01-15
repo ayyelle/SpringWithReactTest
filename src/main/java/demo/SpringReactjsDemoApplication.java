@@ -1,4 +1,4 @@
-package de.synyx.tutorials.spring.reactjs.demo;
+package demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

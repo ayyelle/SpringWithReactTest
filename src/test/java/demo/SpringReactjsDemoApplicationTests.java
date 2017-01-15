@@ -1,4 +1,4 @@
-package de.synyx.tutorials.spring.reactjs.demo;
+package demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

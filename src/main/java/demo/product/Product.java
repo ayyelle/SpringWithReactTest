@@ -1,4 +1,4 @@
-package de.synyx.tutorials.spring.reactjs.demo.product;
+package demo.product;
 
 public class Product {
 

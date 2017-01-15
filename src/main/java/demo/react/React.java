@@ -1,6 +1,6 @@
-package de.synyx.tutorials.spring.reactjs.demo.react;
+package demo.react;
 
-import de.synyx.tutorials.spring.reactjs.demo.product.Product;
+import demo.product.Product;
 import jdk.nashorn.api.scripting.NashornScriptEngine;
 import org.springframework.stereotype.Component;
 

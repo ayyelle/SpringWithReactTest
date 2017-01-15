@@ -1,4 +1,4 @@
-package de.synyx.tutorials.spring.reactjs.demo;
+package demo;
 
 import java.util.ArrayList;
 import java.util.Collection;

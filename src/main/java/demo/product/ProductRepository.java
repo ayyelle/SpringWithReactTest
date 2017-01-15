@@ -1,4 +1,4 @@
-package de.synyx.tutorials.spring.reactjs.demo.product;
+package demo.product;
 
 import org.springframework.stereotype.Repository;
 
@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import static de.synyx.tutorials.spring.reactjs.demo.Functions.sorted;
+import static demo.Functions.sorted;
 
 @Repository
 public class ProductRepository {
