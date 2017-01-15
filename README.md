@@ -14,7 +14,7 @@ npm install
 ./gradlew bootRun
 ```
 
-## Troubleshoot - Might also have to run the follow
+## Troubleshoot - Might also have to run the following
 
 ```bash
 npm install babel-core babel-loader --save-dev
